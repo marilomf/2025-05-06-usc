@@ -79,7 +79,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
-<h4>If you have not yet registered, please use the form below to register: <strong><a href="https://forms.gle/cELwgweTup65tu7h8">https://forms.gle/cELwgweTup65tu7h8</a></strong></h4>
+<h4>If you have not yet registered, please use the following form to register: <strong><a href="https://forms.gle/cELwgweTup65tu7h8">https://forms.gle/cELwgweTup65tu7h8</a></strong></h4>
 
 <h2 id="general">General Information</h2>
 
