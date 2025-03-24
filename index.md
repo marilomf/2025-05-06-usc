@@ -15,7 +15,7 @@ startdate: 2025-05-06      # machine-readable start date for the workshop in YYY
 enddate: 2025-05-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Allie Tatarian, Lorena Montoya Freire, Oghenere Salubi"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["-"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["first@example.org","second@example.org"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+email: ["louisers@usc.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 what3words:           # optional: what3words (https://what3words.com) address of the workshop venue, without leading slashes e.g. "globe.lessening.computers"
@@ -79,6 +79,7 @@ displayed if the 'eventbrite' field in the header is not set.
 </script>
 {% endif %}
 
+<h3>If you have not yet registered, please use the form below to register:</h3> <strong><a href="https://forms.gle/cELwgweTup65tu7h8">https://forms.gle/cELwgweTup65tu7h8</a></strong>
 
 <h2 id="general">General Information</h2>
 
